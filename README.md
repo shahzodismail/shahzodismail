@@ -6,7 +6,9 @@
   <p>
     <a href="https://linkedin.com">
       <img src="https://shields.io" alt="LinkedIn" />
-  
+    </a>
+    <a>
+      
   </p>
 </div>
 
